@@ -68,13 +68,13 @@ This manual testing artifacts for Startech.bd ensures the reliability of the Acc
 ---
 <!--- Artifact Screenshots --->
 <p align="center">
-  <a href="screenshots/mind_maps.png"><img src="screenshots/mind_maps.png" width="300" alt="Mind Maps" align="top"/></a>
-  <a href="screenshots/test_scenarios.png"><img src="screenshots/test_scenarios.png" width="300" alt="Test Scenarios" align="top"/></a>
-  <a href="screenshots/test_case.png"><img src="screenshots/test_case.png" width="300" alt="Test Cases" align="top"/></a>
+  <a href="screenshots/mind_maps.png"><img src="screenshots/mind_maps.png" width="250" alt="Mind Maps" align="top"/></a>
+  <a href="screenshots/test_scenarios.png"><img src="screenshots/test_scenarios.png" width="250" alt="Test Scenarios" align="top"/></a>
+  <a href="screenshots/test_case.png"><img src="screenshots/test_case.png" width="250" alt="Test Cases" align="top"/></a>
   <br><br>
-  <a href="screenshots/test_summary_report.png"><img src="screenshots/test_summary_report.png" width="300" alt="Test Summary Report" align="top"/></a>
-  <a href="screenshots/test_metrics.png"><img src="screenshots/test_metrics.png" width="300" alt="Test Metrics" align="top"/></a>
-  <a href="screenshots/bug_report.png"><img src="screenshots/bug_report.png" width="300" alt="Bug Report" align="top"/></a>
+  <a href="screenshots/test_summary_report.png"><img src="screenshots/test_summary_report.png" width="250" alt="Test Summary Report" align="top"/></a>
+  <a href="screenshots/test_metrics.png"><img src="screenshots/test_metrics.png" width="250" alt="Test Metrics" align="top"/></a>
+  <a href="screenshots/bug_report.png"><img src="screenshots/bug_report.png" width="250" alt="Bug Report" align="top"/></a>
 </p>
 
 ---
